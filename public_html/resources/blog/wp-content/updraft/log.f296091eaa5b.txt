@@ -1,0 +1,77 @@
+0000.000 () Opened log file at time: Tue, 12 Nov 2013 16:59:37 +0000
+0000.018 () UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+0000.022 () Free space on disk containing Updraft's temporary directory: 22438.5 Mb
+0000.026 () Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.028 () Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.033 (0) Backup run: resumption=0, nonce=f296091eaa5b, begun at=1384275577 (0s ago), job type=backup
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1384275877) in case this run gets aborted
+0000.043 (0) Checking if we have a zip executable available
+0000.044 (0) Testing: /usr/bin/zip
+1660.776 (1) Opened log file at time: Tue, 12 Nov 2013 17:27:18 +0000
+1660.778 (1) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+1660.779 (1) Free space on disk containing Updraft's temporary directory: 22422.1 Mb
+1660.782 (1) Backup run: resumption=1, nonce=f296091eaa5b, begun at=1384275577 (1661s ago), job type=backup
+1660.783 (1) Scheduling a resumption (2) after 300 seconds (1384277538) in case this run gets aborted
+1660.792 (1) Checking if we have a zip executable available
+1660.793 (1) Testing: /usr/bin/zip
+6224.450 (2) Opened log file at time: Tue, 12 Nov 2013 18:43:22 +0000
+6224.452 (2) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+6224.453 (2) Free space on disk containing Updraft's temporary directory: 22432.4 Mb
+6224.456 (2) Backup run: resumption=2, nonce=f296091eaa5b, begun at=1384275577 (6225s ago), job type=backup
+6224.456 (2) Scheduling a resumption (3) after 300 seconds (1384282102) in case this run gets aborted
+6224.464 (2) Checking if we have a zip executable available
+6224.465 (2) Testing: /usr/bin/zip
+11853.911 (3) Opened log file at time: Tue, 12 Nov 2013 20:17:11 +0000
+11853.913 (3) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+11853.914 (3) Free space on disk containing Updraft's temporary directory: 22416 Mb
+11853.916 (3) Backup run: resumption=3, nonce=f296091eaa5b, begun at=1384275577 (11854s ago), job type=backup
+11853.917 (3) Scheduling a resumption (4) after 300 seconds (1384287731) in case this run gets aborted
+11853.927 (3) Checking if we have a zip executable available
+11853.929 (3) Testing: /usr/bin/zip
+16912.481 (4) Opened log file at time: Tue, 12 Nov 2013 21:41:30 +0000
+16912.484 (4) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+16912.486 (4) Free space on disk containing Updraft's temporary directory: 22399.2 Mb
+16912.489 (4) Backup run: resumption=4, nonce=f296091eaa5b, begun at=1384275577 (16913s ago), job type=backup
+16912.490 (4) Scheduling a resumption (5) after 300 seconds (1384292790) in case this run gets aborted
+16912.522 (4) Checking if we have a zip executable available
+16912.527 (4) Testing: /usr/bin/zip
+21303.965 (5) Opened log file at time: Tue, 12 Nov 2013 22:54:41 +0000
+21303.967 (5) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+21303.969 (5) Free space on disk containing Updraft's temporary directory: 22383.6 Mb
+21303.972 (5) Backup run: resumption=5, nonce=f296091eaa5b, begun at=1384275577 (21304s ago), job type=backup
+21303.973 (5) Scheduling a resumption (6) after 300 seconds (1384297181) in case this run gets aborted
+21303.985 (5) Checking if we have a zip executable available
+21303.987 (5) Testing: /usr/bin/zip
+22908.901 (6) Opened log file at time: Tue, 12 Nov 2013 23:21:26 +0000
+22908.903 (6) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+22908.905 (6) Free space on disk containing Updraft's temporary directory: 22384.9 Mb
+22908.907 (6) Backup run: resumption=6, nonce=f296091eaa5b, begun at=1384275577 (22909s ago), job type=backup
+22908.909 (6) Scheduling a resumption (7) after 300 seconds (1384298786) in case this run gets aborted
+22908.920 (6) Checking if we have a zip executable available
+22908.922 (6) Testing: /usr/bin/zip
+26319.316 (7) Opened log file at time: Wed, 13 Nov 2013 00:18:16 +0000
+26319.318 (7) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+26319.319 (7) Free space on disk containing Updraft's temporary directory: 22383.1 Mb
+26319.321 (7) Backup run: resumption=7, nonce=f296091eaa5b, begun at=1384275577 (26319s ago), job type=backup
+26319.322 (7) Scheduling a resumption (8) after 300 seconds (1384302196) in case this run gets aborted
+26319.330 (7) Checking if we have a zip executable available
+26319.331 (7) Testing: /usr/bin/zip
+28545.328 (8) Opened log file at time: Wed, 13 Nov 2013 00:55:22 +0000
+28545.330 (8) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+28545.331 (8) Free space on disk containing Updraft's temporary directory: 22377.7 Mb
+28545.334 (8) Backup run: resumption=8, nonce=f296091eaa5b, begun at=1384275577 (28545s ago), job type=backup
+28545.335 (8) Time passed on previous resumptions: 0:? 1:? 2:? 3:? 4:? 5:? 6:? 7:?  (known: 0, max: 0)
+28545.336 (8) Scheduling a resumption (9) after 300 seconds (1384304422) in case this run gets aborted
+28545.346 (8) Checking if we have a zip executable available
+28545.348 (8) Testing: /usr/bin/zip
+32755.146 (9) Opened log file at time: Wed, 13 Nov 2013 01:23:54 +0000
+32755.149 (9) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+32755.154 (9) Free space on disk containing Updraft's temporary directory: 22368.7 Mb
+32755.177 (9) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1384305834, time_now=1384305834.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+32755.181 (9) Rescheduling resumption 10: moving to 420 seconds from now (1384306254)
+32755.194 (9) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+34177.842 (10) Opened log file at time: Wed, 13 Nov 2013 01:47:37 +0000
+34177.844 (10) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M ZipArchive::addFile : Y
+34177.847 (10) Free space on disk containing Updraft's temporary directory: 22377 Mb
+34177.851 (10) Backup run: resumption=10, nonce=f296091eaa5b, begun at=1384273079 (34178s ago), job type=backup, previous check-in=0s
+34177.853 (10) Terminate: This backup job is already finished.

@@ -1,0 +1,2 @@
+0000.036 (0) Opened log file at time: Sun, 22 Dec 2013 16:16:33 +0000
+0000.040 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.8.2 WP: 3.8 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.16.1.el5.lve0.8.70PAE #1 SMP Wed Sep 4 19:54:18 EEST 2013 i686) MySQL: 5.1.72-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 29.3M | 29.5M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N

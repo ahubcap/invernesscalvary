@@ -1,0 +1,2 @@
+0000.087 (0) Opened log file at time: Sat, 26 Apr 2014 16:50:06 +0000 on http://invernesscalvary.com/resources/blog
+0000.091 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.5 WP: 3.9 PHP: 5.3.28 (Linux cp6.hostek.com 2.6.18-471.3.1.el5.lve0.8.72PAE #1 SMP Wed Mar 12 18:38:16 EDT 2014 i686) MySQL: 5.1.73-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.8M | 31M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N

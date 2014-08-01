@@ -1,0 +1,80 @@
+0000.124 () Opened log file at time: Thu, 29 Aug 2013 06:25:04 +0000
+0000.144 () UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.4.1.el5.lve0.8.68PAE #1 SMP Thu Apr 25 17:43:39 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M ZipArchive::addFile : Y
+0000.149 () Free space on disk containing Updraft's temporary directory: 39292.6 Mb
+0000.249 () Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.277 () Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.298 (0) Backup run: resumption=0, nonce=9d98bccec405, begun at=1377757504 (1s ago), job type=backup
+0000.300 (0) Scheduling a resumption (1) after 300 seconds (1377757805) in case this run gets aborted
+0000.412 (0) Checking if we have a zip executable available
+0000.416 (0) Testing: /usr/bin/zip
+0000.578 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.582 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.584 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=127) (out=105) (deflated 17%)
+0000.587 (0) Output: total bytes=127, compressed=105 -> 17% savings
+0000.714 (0) Output: adding: binziptest/subdir1/subdir2/test2.html (deflated 19%)
+0001.175 (0) Working binary zip found: /usr/bin/zip
+0001.179 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0001.183 (0) Creation of backups of directories: beginning
+0001.195 (0) Beginning creation of dump of plugins (split every: 800 Mb)
+0004.252 (0) Remaining entities to add to zip file: 428 directories, 1165 files
+0004.256 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1.5 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0004.342 (0) /home/invernes/public_html/resources/blog/wp-content/updraft/backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: size is now: 0.10 Mb
+0004.355 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 100 files added (on-disk size: 99.8 Kb)
+0004.365 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 200 files added (on-disk size: 99.8 Kb)
+0004.377 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 300 files added (on-disk size: 99.8 Kb)
+0004.387 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 400 files added (on-disk size: 99.8 Kb)
+0004.397 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 500 files added (on-disk size: 99.8 Kb)
+0004.398 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 Mb, 1165 files batched, 501 (502) added so far); re-opening (prior size: 99.8 Kb)
+0004.484 (0) /home/invernes/public_html/resources/blog/wp-content/updraft/backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: size is now: 0.10 Mb
+0009.385 (0) /home/invernes/public_html/resources/blog/wp-content/updraft/backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: size is now: 2.00 Mb
+0009.408 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 600 files added (on-disk size: 2088.8 Kb)
+0009.420 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 700 files added (on-disk size: 2088.8 Kb)
+0009.432 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 800 files added (on-disk size: 2088.8 Kb)
+0009.441 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 900 files added (on-disk size: 2088.8 Kb)
+0009.454 (0) Zip: backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: 1000 files added (on-disk size: 2088.8 Kb)
+0009.457 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.1 Mb, 1165 files batched, 501 (1003) added so far); re-opening (prior size: 2088.8 Kb)
+1837.950 (0) The time we have been running (1837.8) is approaching the resumption interval (300) - increasing resumption interval to 1868
+1837.960 (0) /home/invernes/public_html/resources/blog/wp-content/updraft/backup_2013-08-29-0225_Calvary_Church_Blog_9d98bccec405-plugins.zip.tmp: size is now: 2.00 Mb
+1837.968 (0) Binary zip: error (code: 9)
+1837.978 (0) A zip error occurred - check your log for more details.
+1837.981 (0) The attempt to close the zip file returned an error (	zip info: local extra (21 bytes) != central extra (13 bytes): plugins/updraftplus/languages/updraftplus-es_ES.mo
+). List of files we were trying to add follows (check their permissions).
+1837.988 (0) File: plugins/tubepress/vendor/ehough/finder/src/main/php/ehough/finder/FinderFactoryInterface.php (exists: 1, size: 382)
+1837.990 (0) File: plugins/tubepress/vendor/ehough/finder/README.md (exists: 1, size: 2294)
+1837.998 (0) File: plugins/tubepress/vendor/ehough/finder/composer.json (exists: 1, size: 564)
+1838.001 (0) File: plugins/tubepress/vendor/ehough/finder/LICENSE (exists: 1, size: 1065)
+1838.006 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/debug/TraceableEventDispatcherInterface.php (exists: 1, size: 731)
+1838.009 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/EventDispatcher.php (exists: 1, size: 5705)
+1838.016 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/ImmutableEventDispatcher.php (exists: 1, size: 2375)
+1838.018 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/ContainerAwareEventDispatcher.php (exists: 1, size: 6876)
+1838.020 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/EventDispatcherInterface.php (exists: 1, size: 3154)
+1838.022 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/EventSubscriberInterface.php (exists: 1, size: 1605)
+1838.024 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/Event.php (exists: 1, size: 2830)
+1838.026 (0) File: plugins/tubepress/vendor/ehough/tickertape/src/main/php/ehough/tickertape/GenericEvent.php (exists: 1, size: 3986)
+1838.028 (0) File: plugins/tubepress/vendor/ehough/tickertape/LICENSE (exists: 1, size: 1065)
+1838.030 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/ContainerAwareInterface.php (exists: 1, size: 715)
+1838.032 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/Parameter.php (exists: 1, size: 731)
+1838.034 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/Variable.php (exists: 1, size: 787)
+1838.036 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/Container.php (exists: 1, size: 16558)
+1838.038 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/Reference.php (exists: 1, size: 1581)
+1838.040 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/DefinitionDecorator.php (exists: 1, size: 4514)
+1838.046 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/extension/Extension.php (exists: 1, size: 3741)
+1838.050 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/extension/PrependExtensionInterface.php (exists: 1, size: 520)
+1838.053 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/extension/ExtensionInterface.php (exists: 1, size: 1506)
+1838.056 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/extension/ConfigurationExtensionInterface.php (exists: 1, size: 900)
+1838.061 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/SimpleXMLElement.php (exists: 1, size: 3235)
+1838.062 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/dumper/GraphvizDumper.php (exists: 1, size: 9453)
+1838.063 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/dumper/DumperInterface.php (exists: 1, size: 697)
+1838.064 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/dumper/YamlDumper.php (exists: 1, size: 8672)
+1838.067 (0) File: plugins/tubepress/vendor/ehough/iconic/src/main/php/ehough/iconic/dumper/PhpDumper.php (exists: 1, size: 43517)
+0003.519 (1) Opened log file at time: Thu, 29 Aug 2013 06:59:41 +0000
+0003.520 (1) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.4.1.el5.lve0.8.68PAE #1 SMP Thu Apr 25 17:43:39 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M ZipArchive::addFile : Y
+0003.522 (1) Free space on disk containing Updraft's temporary directory: 39291 Mb
+0003.526 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1377759581.4, time_now=1377759581.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0003.527 (1) Rescheduling resumption 2: moving to 420 seconds from now (1377760001)
+0003.531 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+0836.087 (2) Opened log file at time: Thu, 29 Aug 2013 07:13:34 +0000
+0836.090 (2) UpdraftPlus: 1.7.1 WP: 3.6 PHP: 5.3.27 (Linux cp6.hostek.com 2.6.18-448.4.1.el5.lve0.8.68PAE #1 SMP Thu Apr 25 17:43:39 EEST 2013 i686) MySQL: 5.1.70-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M ZipArchive::addFile : Y
+0836.094 (2) Free space on disk containing Updraft's temporary directory: 39290.1 Mb
+0836.102 (2) Backup run: resumption=2, nonce=9d98bccec405, begun at=1377759578 (836s ago), job type=backup, previous check-in=0s
+0836.105 (2) Terminate: This backup job is already finished.
