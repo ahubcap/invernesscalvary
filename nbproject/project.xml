@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.web.clientproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+<<<<<<< HEAD
             <name>invernesscalvary</name>
+=======
+            <name>InvernessCalvary</name>
+>>>>>>> origin/master
         </data>
     </configuration>
 </project>
