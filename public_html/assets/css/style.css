@@ -509,6 +509,7 @@ a.closeHeader {
 		body#im_new #inner_header { background: url('../images/im_new_header.png') no-repeat; }
 		body#who_we_are #inner_header { background: url('../images/who_we_are_header.png') no-repeat; }
 		body#resources #inner_header { background: url('../images/resources_header.png') no-repeat; }
+                body#blog #inner_header { background: url('../images/resources_header.png') no-repeat; }
 		body#contact #inner_header { background: url('../images/contact_header.png') no-repeat; }
 		body#get_involved #inner_header { background: url('../images/get_involved_header.png') no-repeat; }
 		

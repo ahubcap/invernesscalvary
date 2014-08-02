@@ -116,11 +116,11 @@
 			</nav>
 			<div id="inner_header">
 				<div>
-					<span style="float: right; width: 6px; height: 170px;"></span>
+					<span style="float: right; width: 2px; height: 170px;"></span>
 					<span style="float: right; clear: right; width: 80px; height: 60px;"></span>
-					<a target="_blank" href="http://www.youversion.com/bible/isa.40.niv">
-					<p>Isaiah 40:31</p>
-					<p>"But those who hope in the Lord will renew their Strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."</p>
+					<a target="_blank" href="http://www.youversion.com/bible/john.14.niv">
+					<p>John 14:6</p>
+					<p>"Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me'"</p>
 					</a>
 				</div>
 			</div>
