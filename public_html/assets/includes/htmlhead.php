@@ -42,7 +42,7 @@
 	<meta name="revisit-after" content="7 days" />
 	<meta name="robots" content="index, follow" />
 	<meta name="rating" content="general" />
-	<meta name="viewport" content="width=device-width, user-scalable=yes" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!--ICONS-->
     <link rel="icon" type="image/x-icon" href="/assets/images/browser/favicon.ico" />
@@ -52,7 +52,8 @@
 
 	<!--GENERAL ASSETS-->
 	<link rel="stylesheet" href="/assets/css/style.css" type="text/css" charset="utf-8" />
-	<script type="text/javascript" src="/assets/js/lib/modernizr.min.js"></script>
+        <link rel="stylesheet" href="/assets/css/skeleton.css" type="text/css" charset="utf-8" />
+        <script type="text/javascript" src="/assets/js/lib/modernizr.min.js"></script>
 	<script type="text/javascript" src="/assets/js/lib/ie-media-queries.js"></script>
 	<script type="text/javascript" src="/assets/js/lib/jquery.min.js"></script>
 	<!-- script type="text/javascript" src="/assets/js/lib/jquery.transition.min.js"></script> -->
