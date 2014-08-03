@@ -1,5 +1,5 @@
 /* Media Queries */
-    @media only screen and (max-width: 960px) {
+    @media only screen and (max-width: 959px) {
         #desktop_bar {
             display: none;
         }
