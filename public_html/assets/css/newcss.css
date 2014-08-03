@@ -323,12 +323,12 @@
 	padding: 16px 8px 0 8px;
     }
     
-    div#tablet_header {
+    div#drop_nav_tp {
 	position: relative;
 	width: 768px;
 	margin: 0 auto;
 	height: 267px;
-	background: url('../images/header_tab.png') no-repeat;
+	background: url('../images/header_tab_tp.png') no-repeat;
 	padding: 16px 8px 0 8px;
     }
 

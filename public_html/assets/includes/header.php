@@ -31,6 +31,6 @@
 <div id="tablet_bar">
     <div id="top_fixed"></div>
     <header id="main_header">
-        <div id="tablet_header"></div>
+        <div id="drop_nav_tp"></div>
     </header>
 </div>
