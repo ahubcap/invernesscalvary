@@ -267,7 +267,7 @@
     }
     
 
-/* Start */
+/* Header Bar */
     #calendar-overlay {
 	display: none;
 	background-color: black;
@@ -447,4 +447,29 @@
 	bottom: 74px;
 	left: 1020px;
 	cursor: pointer;
+    }
+    
+ 
+/* Top menu */
+    #outer_wrapper {
+ 	width: 100%;
+	background: url('../images/back_header.jpg') center 25px repeat-x;
+	margin: 0 auto;
+																							min-width: 1044px;
+    }
+    
+    #inner_wrapper {
+	width: 1024px;
+	margin: 0 auto;
+	position: relative;
+    }
+    
+    #top_logo {
+	margin: 5px auto 0 auto;
+	position: relative;
+	left: -347px;
+	height: 573px;
+	width: 478px;
+	display: inline-block;
+	background: url('../images/back_logo.png') no-repeat;
     }
