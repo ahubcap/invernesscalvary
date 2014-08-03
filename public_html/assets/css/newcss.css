@@ -118,7 +118,7 @@
     
     a:hover, a:active {
         outline: 0;
-        color: #06e;
+        color: #b14947;
     }
     
     table {
@@ -256,6 +256,19 @@
 	z-index: 1001;
     }
     
+    #top_fixed {
+	position: absolute;
+	top: 0;
+	height: 30px;
+	width: 100%;
+	background: url('../images/header_tab_shade.png') repeat-x;
+	z-index: 120;
+	font-size: 11px;
+	text-align: center;
+	padding-top: 17px;
+																							min-width: 1044px;
+    }
+    
     #top_nav_left {
 	display: inline;
 	margin-right: 588px;
@@ -265,6 +278,29 @@
 	display: inline;
     }
     
+    #top_nav_right:hover {
+        color: #b14947;
+        cursor: pointer;
+    }
+    
+    header#main_header {
+        width: 100%;
+        position: absolute;
+        margin: -144px auto 0 auto;
+        height: 267px;
+        background: url('../images/header_back.png') repeat-x;
+        z-index: 100;
+    }
+    
+    div#drop_nav {
+	position: relative;
+	width: 1024px;
+	margin: 0 auto;
+	height: 267px;
+	background: url('../images/header_tab.png') no-repeat;
+	padding: 16px 8px 0 8px;
+    }
+
     #header_mark {
 	opacity: 0;
 	-moz-opacity: 0;
@@ -284,6 +320,22 @@
 
     #top_info, #top_hours {
         display: none;
+    }
+    
+    #top_info h3 {
+        margin: 0;
+    }
+    
+    #top_info p {
+        margin: 6px 0 0 0;
+        line-height: 16px;
+        position: relative;
+        z-index: 110;
+    }
+    
+    #top_info {
+        float: left;
+        width: 320px;
     }
     
     #top_map {
@@ -306,4 +358,48 @@
 	margin: 6px 0 0 0;
 	font-size: 11px;
 	text-align: center;
+    }
+    
+    #top_hours {
+        padding-top: 40px;
+        margin-left: 350px;
+        width: 330px;
+    }
+    
+    #top_hours p {
+        margin-top: 0;
+    }
+    
+    #top_hours p span {
+        float: right;
+    }
+    
+    .ie7 #top_hours p {
+        position: relative;
+    }
+    
+    .ie7 #top_hours p span {
+        float: none;
+        position: absolute;
+        right: 0;
+    }
+    
+    #tab_click a {
+	width: 220px;
+	height: 80px;
+	position: absolute;
+	bottom: 26px;
+	left: 400px;
+    }
+    
+    a.closeHeader {
+	background: url('../images/x.png') no-repeat;
+	width: 25px;
+	height: 29px;
+	display: none;
+	z-index: 3200;
+	position: absolute;
+	bottom: 74px;
+	left: 1020px;
+	cursor: pointer;
     }
