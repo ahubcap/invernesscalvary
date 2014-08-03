@@ -322,6 +322,10 @@
 	background: url('../images/header_tab.png') no-repeat;
 	padding: 16px 8px 0 8px;
     }
+    
+    div#tablet_header {
+        background: url('../images/header_tab.png') no-repeat center;
+    }
 
     #header_mark {
 	opacity: 0;
