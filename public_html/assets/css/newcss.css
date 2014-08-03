@@ -324,8 +324,12 @@
     }
     
     div#tablet_header {
-        background: url('../images/header_tab.png') no-repeat;
-        background-position: center;
+	position: relative;
+	width: 768px;
+	margin: 0 auto;
+	height: 267px;
+	background: url('../images/header_tab.png') no-repeat;
+	padding: 16px 8px 0 8px;
     }
 
     #header_mark {
