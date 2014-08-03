@@ -1,6 +1,6 @@
 /* Media Queries */
-    @media only screen and (max-width: 768px) {
-        div#top_bar {
+    @media only screen and (max-width: 1024px) {
+        #top_bar {
             display: none;
         }
     }
