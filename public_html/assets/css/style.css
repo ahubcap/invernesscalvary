@@ -1132,7 +1132,7 @@ ul#home_nav li ul.drop_07 {
 
 #home #mid_blocks div {
 	float: left;
-	width: 315px;
+/*	width: 315px; */
 	height: 152px;
 	margin-right: 39px;
 }
@@ -1143,7 +1143,7 @@ ul#home_nav li ul.drop_07 {
 
 #home #mid_blocks div#ministries_pic{
 	background: url('../images/ministries.png') no-repeat;
-	width: 315px;
+/*	width: 315px; */
 	height: 104px;
 }
 
