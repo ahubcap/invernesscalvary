@@ -51,8 +51,7 @@
 	<link rel="apple-touch-icon-precomposed" href="/assets/images/browser/apple-touch-icon-precomposed.png" /><!--Non-Retina/Android 2.1+-->
 
 	<!--GENERAL ASSETS-->
-	<link rel="stylesheet" href="/assets/css/style.css" type="text/css" charset="utf-8" />
-        <link rel="stylesheet" href="/assets/css/skeleton.css" type="text/css" charset="utf-8" />
+        <link rel="stylesheet" href="/assets/css/newcss.css" type="text/css" charset="utf-8" />
         <script type="text/javascript" src="/assets/js/lib/modernizr.min.js"></script>
 	<script type="text/javascript" src="/assets/js/lib/ie-media-queries.js"></script>
 	<script type="text/javascript" src="/assets/js/lib/jquery.min.js"></script>

@@ -1,7 +1,6 @@
 <?php $pagenav = "home"; ?>
 <?php include 'assets/includes/htmlhead.php'; ?>
 	<body id="home">
-            <div class="container"><div class="sixteen columns">
 	<?php include 'assets/includes/header.php'; ?>
 	<div id="outer_wrapper">
 		<div id="inner_wrapper">
@@ -25,9 +24,8 @@
                     <a href="/ministries/for_adults/#citrus_prayer_group"><img src="/assets/images/slider/cpr.jpg" width="1023" height="411" alt="" /></a>
                     <a href="/ministries/for_teens/#the_furnace"><img src="/assets/images/slider/furnace1.jpg" width="1023" height="411" alt="" /></a>
 				</div>
-			</div></div>
+			</div>
 			<div id="mid_blocks">
-                                <div class="one-third column">
 				<div id="ministries_block">
 					<a href="/ministries/"><div id="ministries_pic"></div></a>
 					<ul>
@@ -39,10 +37,8 @@
 						<li><a href="/ministries/serve/">Ways to Serve</a></li>
 					</ul>
                                 </div></div>
-                                <div class="one-third column">
-                                    <a href="http://invernesscalvary.com/resources/blog/sermon-archive"><div id="audio"></div></a></div>
-                                <div class="one-third column">
-                                    <a href="/get_involved/"><div id="involved"></div></a></div>
+                                    <a href="http://invernesscalvary.com/resources/blog/sermon-archive"><div id="audio"></div></a>
+                                    <a href="/get_involved/"><div id="involved"></div></a>
 			</div>
 			<img id="middiv" src="/assets/images/mid_divider.png" />
 			<div id="bot_blocks">
