@@ -1,4 +1,4 @@
-<div id="top_bar"><div id="calendar-overlay"></div>
+<div id="desktop_bar"><div id="calendar-overlay"></div>
 <div id="top_fixed">
 	<div id="top_nav_left"><a href="/">HOME</a> &bull; <a href="/contact/#general">CONTACT</a> &bull; <a href="/get_involved/#donate_to_calvary">GIVE TO CALVARY</a></div>
 	<div id="top_nav_right">SERVICE TIMES &amp; DIRECTIONS</div>
@@ -26,4 +26,8 @@
 		<a class="closeHeader" title="Close"></a>
 	</div>
 </header>
+</div>
+
+<div id="tablet_bar">
+    <div id="top_fixed"></div>
 </div>
