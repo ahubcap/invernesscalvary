@@ -48,7 +48,7 @@
       
     
 /* Base */
-    html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
         margin:0;
         padding:0;
         border:0;
@@ -97,10 +97,6 @@
     
     article,aside,details,figcaption,figure, footer,header,hgroup,menu,nav,section {
         display:block;
-    }
-        
-    nav ul {
-        list-style:none;
     }
     
     a {
@@ -211,4 +207,22 @@
     
     sub {
         bottom: -0.25em;
+    }
+    
+    
+/* Lists */
+    ul, ol {
+        margin: 1em 0;
+        padding: 0 0 0 40px;
+    }
+    
+    dd {
+        margin: 0 0 0 40px;
+    }
+    
+    nav ul, nav ol {
+        list-style: none;
+        list-style-image: none;
+        margin: 0;
+        padding: 0;
     }
