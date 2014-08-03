@@ -238,3 +238,72 @@
     svg:not(:root) {
         overflow: hidden;
     }
+    
+
+/* Start */
+    #calendar-overlay {
+	display: none;
+	background-color: black;
+	cursor: wait;
+	opacity: 0.50;
+	-moz-opacity: 0.50;
+	filter:alpha(opacity=50);
+	height: 1696px;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 1001;
+    }
+    
+    #top_nav_left {
+	display: inline;
+	margin-right: 588px;
+    }
+
+    #top_nav_right {
+	display: inline;
+    }
+    
+    #header_mark {
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+ 	display: block;
+	height: 41px;
+	width: 657px;
+	position: absolute;
+	left: -339px;
+	bottom: 92px;
+	background: url('../images/watermark.png') no-repeat;
+    }
+
+    .ie7 #header_mark, .ie8 #header_mark {
+	display: none;
+    }
+
+    #top_info, #top_hours {
+        display: none;
+    }
+    
+    #top_map {
+	float: right;
+	opacity: 0;
+    }
+
+    .ie7 #top_map, .ie8 #top_map {
+	display: none;
+    }
+
+    #map_canvas {
+	width: 300px;
+	height: 140px;
+	border: 1px solid #888;
+	background: url('../images/staticmap.gif') no-repeat 
+    }
+
+    .mapLink {
+	margin: 6px 0 0 0;
+	font-size: 11px;
+	text-align: center;
+    }
