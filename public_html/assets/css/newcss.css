@@ -2,14 +2,14 @@
 
     /* Desktop */
         @media only screen and (min-width: 960px) {
-            #tablet_bar {
+            #tablet_portrait_bar, #phone_portrait_bar {
                 display: none;
             }
         }
         
     /* Tablet (portrait) */
-        @media only screen and (max-width: 959px) {
-            #desktop_bar {
+        @media only screen and (min-width: 768px) and (max-width: 959px) {
+            #desktop_bar, #phone_portrait_bar {
                 display: none;
             }
         }
@@ -17,6 +17,11 @@
     /* Tablet (landscape)
     
     /* Phone (portrait) */
+        @media only screen and (max-width: 767px) {
+            #desktop_bar, #tablet_portrait_bar {
+                display: none;
+            }
+        }
     
     /* Phone (landscape)
 
@@ -331,7 +336,16 @@
 	background: url('../images/header_tab_tp.png') no-repeat;
 	padding: 16px 8px 0 8px;
     }
-
+    
+    div#drop_nav_pp {
+	position: relative;
+	width: 320px;
+	margin: 0 auto;
+	height: 267px;
+	background: url('../images/header_tab_pp.png') no-repeat;
+	padding: 16px 8px 0 8px;
+    }
+    
     #header_mark {
 	opacity: 0;
 	-moz-opacity: 0;

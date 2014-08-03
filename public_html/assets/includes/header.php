@@ -28,9 +28,16 @@
 </header>
 </div>
 
-<div id="tablet_bar">
+<div id="tablet_portrait_bar">
     <div id="top_fixed"></div>
     <header id="main_header">
         <div id="drop_nav_tp"></div>
+    </header>
+</div>
+
+<div id="phone_portrait_bar">
+    <div id="top_fixed"></div>
+    <header id="main_header">
+        <div id="drop_nav_pp"></div>
     </header>
 </div>
