@@ -31,21 +31,17 @@
 <div id="tablet_portrait_bar">
     <div id="top_fixed"></div>
     <header id="main_header">
-        <div id="drop_nav_tp">
-            <span id="tab_click">
-                <a id="home_link" href="/">&nbsp;</a>
-            </span>
-        </div>
+        <a id="home_link" href="/">
+            <div id="drop_nav_tp"></div>
+        </a>
     </header>
 </div>
 
 <div id="phone_portrait_bar">
     <div id="top_fixed"></div>
     <header id="main_header">
-        <div id="drop_nav_pp">
-            <span id="tab_click">
-                <a id="home_link" href="/">&nbsp;</a>
-            </span>
-        </div>
+        <a id="home_link" href="/">
+            <div id="drop_nav_pp"></div>
+        </a>
     </header>
 </div>
