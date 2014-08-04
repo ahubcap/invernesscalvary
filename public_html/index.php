@@ -12,7 +12,7 @@
 			</nav>
 			<div id="slides">
 				<div class="slides_container">
-					<a href="/im_new/#whats_calvary_all_about" style="width:1023px; height: 411px;"><img src="/assets/images/slide-01.jpg" class="scrolling_slides" alt="" /></a>
+                                    <a href="/im_new/#whats_calvary_all_about" style="width:1023px; height: 411px;"><div style="background: url("/assets/images/slide-01.jpg");"></div></a>
 					<a class="pop-video" href="https://vimeo.com/92669523" style="width: 1023px; height: 411px;"><img src="/assets/images/slider/growth-track.jpg" width="1023" height="411" alt="Growth Track Promo" /></a>
 					<a href="/resources/blog/events/renew-2014-calvary-churchs-ladies-retreat/" style="width: 1023px; height: 411px;"><img src="/assets/images/slider/Renew2014WebsiteCoverBanner.jpg" width="1023" height="411" alt="Renew 2014 - Calvary Church Ladies Retreat" /></a>
 					<!--<a href="/resources/blog/events/"><img src="/assets/images/slider/events.jpeg" width="1023" height="411" alt="Special Events" /></a>-->
