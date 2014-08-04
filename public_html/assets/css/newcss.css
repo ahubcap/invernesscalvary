@@ -5,7 +5,7 @@
             #tablet_portrait_bar, #phone_portrait_bar {
                 display: none;
             }
-            #scrolling_slides {
+            img#scrolling_slides {
                 width: 1023px;
                 height: 411px;
             }
@@ -16,7 +16,7 @@
             #desktop_bar, #phone_portrait_bar {
                 display: none;
             }
-            #scrolling_slides {
+            img#scrolling_slides {
                 width: 753px;
                 height: 303px;
             }
@@ -29,7 +29,7 @@
             #desktop_bar, #tablet_portrait_bar {
                 display: none;
             }
-            #scrolling_slides {
+            img#scrolling_slides {
                 width: 314px;
                 height: 126px;
             }
