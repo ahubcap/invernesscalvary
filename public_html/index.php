@@ -25,6 +25,8 @@
                     <a href="/ministries/for_teens/#the_furnace"><img src="/assets/images/slider/furnace1.jpg" width="1023" height="411" alt="" /></a>
 				</div>
 			</div>
+                        
+<?php /*                        
 			<div id="mid_blocks">
 				<div id="ministries_block">
 					<a href="/ministries/"><div id="ministries_pic"></div></a>
@@ -150,3 +152,4 @@
 				<div style="clear:both;"></div>
 			</div>
 	<?php include 'assets/includes/footer.php'; ?>
+*/ ?>
