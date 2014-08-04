@@ -13,16 +13,16 @@
                         
 			<div id="slides">
 				<div class="slides_container">
-                                    <a href="/im_new/#whats_calvary_all_about" style="width: 1023px; height: 411px;"><img src="/assets/images/slide-01.jpg" width="1023" height="411" alt="" /></a>
-					<a class="pop-video" href="https://vimeo.com/92669523" style="width: 1023px; height: 411px;"><img src="/assets/images/slider/growth-track.jpg" width="1023" height="411" alt="Growth Track Promo" /></a>
-					<a href="/resources/blog/events/renew-2014-calvary-churchs-ladies-retreat/" style="width: 1023px; height: 411px;"><img src="/assets/images/slider/Renew2014WebsiteCoverBanner.jpg" width="1023" height="411" alt="Renew 2014 - Calvary Church Ladies Retreat" /></a>
+                                    <a href="/im_new/#whats_calvary_all_about"><img src="/assets/images/slide-01.jpg" alt="" /></a>
+					<a class="pop-video" href="https://vimeo.com/92669523"><img src="/assets/images/slider/growth-track.jpg" alt="Growth Track Promo" /></a>
+					<a href="/resources/blog/events/renew-2014-calvary-churchs-ladies-retreat/"><img src="/assets/images/slider/Renew2014WebsiteCoverBanner.jpg" alt="Renew 2014 - Calvary Church Ladies Retreat" /></a>
 					<!--<a href="/resources/blog/events/"><img src="/assets/images/slider/events.jpeg" width="1023" height="411" alt="Special Events" /></a>-->
-                    <a href="/ministries/for_teens/#the_well"><img src="/assets/images/slider/the_well_new.jpg" width="1023" height="411" alt="" /></a>
+                    <a href="/ministries/for_teens/#the_well"><img src="/assets/images/slider/the_well_new.jpg" alt="" /></a>
 					<!--a href="/ministries/for_adults/#axis_young_adults"><img src="/assets/images/slide-03.jpg" width="1023" height="411" alt="" /></a-->
-					<a href="/ministries/for_kids/#calvary_kids"><img src="/assets/images/slide-04.jpg" width="1023" height="411" alt="" /></a>
-					<a href="/ministries/for_adults/#adult_life_group"><img src="/assets/images/slide-05.jpg" width="1023" height="411" alt="" /></a>
-                    <a href="/ministries/for_adults/#citrus_prayer_group"><img src="/assets/images/slider/cpr.jpg" width="1023" height="411" alt="" /></a>
-                    <a href="/ministries/for_teens/#the_furnace"><img src="/assets/images/slider/furnace1.jpg" width="1023" height="411" alt="" /></a>
+					<a href="/ministries/for_kids/#calvary_kids"><img src="/assets/images/slide-04.jpg" alt="" /></a>
+					<a href="/ministries/for_adults/#adult_life_group"><img src="/assets/images/slide-05.jpg" alt="" /></a>
+                    <a href="/ministries/for_adults/#citrus_prayer_group"><img src="/assets/images/slider/cpr.jpg" alt="" /></a>
+                    <a href="/ministries/for_teens/#the_furnace"><img src="/assets/images/slider/furnace1.jpg" alt="" /></a>
 				</div>
 			</div>
                         
