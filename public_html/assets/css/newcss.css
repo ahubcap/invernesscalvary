@@ -8,7 +8,6 @@
             .slides_container, .slides_container img {
                 width: 1023px;
                 height: 411px;
-                margin: 0 auto 0 auto;
             }
         }
         
@@ -20,7 +19,6 @@
             .slides_container, .slides_container img {
                 width: 753px;
                 height: 303px;
-                margin: 0 auto 0 auto;
             }
         }
     
@@ -34,7 +32,6 @@
             .slides_container, .slides_container img {
                 width: 314px;
                 height: 126px;
-                margin: 0 auto 0 auto;
             }
         }
     
@@ -491,8 +488,8 @@
     
 /* Slideshow */
     #slides {
-	position: absolute;
-	top: 167px;
+	position: relative;
+	top: 100px;
 	z-index: 1;
 	text-align:center;
     }
