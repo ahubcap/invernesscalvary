@@ -305,7 +305,6 @@
 	font-size: 11px;
 	text-align: center;
 	padding-top: 17px;
-																							min-width: 1044px;
     }
     
     #top_nav_left {
@@ -488,11 +487,7 @@
     
 /* Slideshow */
     #slides {
-	position:absolute;
-        left:0;
-        right:0;
-        margin-left:auto;
-        margin-right:auto;
+	position: absolute;
 	top: 167px;
 	z-index: 1;
 	text-align:center;
