@@ -82,7 +82,6 @@
 
 <?php if($pagenav=='home') :?>
 	<script type="text/javascript" src="/assets/js/code/slides.min.jquery.js"></script>
-	<link rel="stylesheet" href="/assets/css/slides.css" type="text/css" charset="utf-8" />
 	<script src="http://www.google.com/jsapi?key=ABQIAAAAIL0BMVucvj87R-HFDh6IahS3uPXALdg0NLqxXgoiNBY3m2_gfxStHkwYHjL0wT-8fBvApuDfCj-aVw" type="text/javascript"></script>
 	<script type="text/javascript">google.load("feeds", "1")</script>
 
