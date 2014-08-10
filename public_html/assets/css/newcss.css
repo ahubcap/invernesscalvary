@@ -38,6 +38,9 @@
             div#drop_nav {
                 width: 768px;
             }
+            #mobile_menu {
+                width: 768px;
+            }
         }
     
     /* Tablet (landscape)
@@ -58,6 +61,9 @@
                 padding-top: 0px;
             }
             div#drop_nav {
+                width: 320px;
+            }
+            #mobile_menu {
                 width: 320px;
             }
         }
@@ -499,6 +505,12 @@
 	width: 478px;
 	display: inline-block;
 	background: url('../images/back_logo.png') no-repeat;
+    }
+    
+    #mobile_menu {
+        position: relative;
+        margin: auto;
+        text-align: left;
     }
     
     #menu {

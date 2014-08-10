@@ -30,11 +30,11 @@
 
 <div id="mobile_bar">
     <div id="top_fixed">
-        <span id="menu">&#9776;</span>
+        <div id="mobile_menu">
+            <span id="menu">&#9776;</span>
+        </div>
     </div>
     <header id="main_header">
-        <a id="home_link" href="/">
-            <div id="drop_nav"></div>
-        </a>
+        <div id="drop_nav"></div>
     </header>
 </div>
