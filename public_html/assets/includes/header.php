@@ -29,7 +29,7 @@
 </div>
 
 <div id="tablet_portrait_bar">
-    <div id="top_fixed"></div>
+    <div id="top_fixed"><span id="menu">&#9776;</span></div>
     <header id="main_header">
         <a id="home_link" href="/">
             <div id="drop_nav_tp"></div>
