@@ -28,24 +28,13 @@
 </header>
 </div>
 
-<div id="tablet_portrait_bar">
+<div id="mobile_bar">
     <div id="top_fixed">
         <span id="menu">&#9776;</span>
     </div>
     <header id="main_header">
         <a id="home_link" href="/">
             <div id="drop_nav_tp"></div>
-        </a>
-    </header>
-</div>
-
-<div id="phone_portrait_bar">
-    <div id="top_fixed">
-        <span id="menu">&#9776;</span>
-    </div>
-    <header id="main_header">
-        <a id="home_link" href="/">
-            <div id="drop_nav_pp"></div>
         </a>
     </header>
 </div>

@@ -2,7 +2,7 @@
 
     /* Desktop - 1044px */
         @media only screen and (min-width: 1044px) {
-            #tablet_portrait_bar, #phone_portrait_bar {
+            #mobile_bar {
                 display: none;
             }
             .slides_container, .slides_container img {
@@ -19,7 +19,7 @@
         
     /* Tablet - 768px (portrait) */
         @media only screen and (min-width: 768px) and (max-width: 1043px) {
-            #desktop_bar, #phone_portrait_bar {
+            #desktop_bar {
                 display: none;
             }
             .slides_container, .slides_container img {
@@ -38,7 +38,7 @@
     
     /* Phone - 320px (portrait) */
         @media only screen and (max-width: 767px) {
-            #desktop_bar, #tablet_portrait_bar {
+            #desktop_bar {
                 display: none;
             }
             .slides_container, .slides_container img {
