@@ -15,6 +15,9 @@
             #top_fixed {
                 padding-top: 17px;
             }
+            div#drop_nav {
+                width: 1024px;
+            }
         }
         
     /* Tablet - 768px (portrait) */
@@ -31,6 +34,9 @@
             }
             #top_fixed {
                 padding-top: 0px;
+            }
+            div#drop_nav {
+                width: 768px;
             }
         }
     
@@ -50,6 +56,9 @@
             }
             #top_fixed {
                 padding-top: 0px;
+            }
+            div#drop_nav {
+                width: 320px;
             }
         }
     
@@ -360,28 +369,9 @@
     
     div#drop_nav {
 	position: relative;
-	width: 1024px;
 	margin: 0 auto;
 	height: 267px;
 	background: url('../images/header_tab.png') no-repeat;
-	padding: 16px 8px 0 8px;
-    }
-    
-    div#drop_nav_tp {
-	position: relative;
-	width: 768px;
-	margin: 0 auto;
-	height: 267px;
-	background: url('../images/header_tab_tp.png') no-repeat;
-	padding: 16px 8px 0 8px;
-    }
-    
-    div#drop_nav_pp {
-	position: relative;
-	width: 320px;
-	margin: 0 auto;
-	height: 267px;
-	background: url('../images/header_tab_pp.png') no-repeat;
 	padding: 16px 8px 0 8px;
     }
     
