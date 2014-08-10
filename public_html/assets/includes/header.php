@@ -34,7 +34,7 @@
     </div>
     <header id="main_header">
         <a id="home_link" href="/">
-            <div id="drop_nav_pp"></div>
+            <div id="drop_nav"></div>
         </a>
     </header>
 </div>
