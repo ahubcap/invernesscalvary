@@ -12,6 +12,9 @@
             #inner_wrapper {
                 width: 1023px;
             }
+            #top-fixed {
+                padding-top: 17px;
+            }
         }
         
     /* Tablet - 768px (portrait) */
@@ -25,6 +28,9 @@
             }
             #inner_wrapper {
                 width: 753px;
+            }
+            #top-fixed {
+                padding-top: 0px;
             }
         }
     
@@ -41,6 +47,9 @@
             }
             #inner_wrapper {
                 width: 314px;
+            }
+            #top-fixed {
+                padding-top: 0px;
             }
         }
     
@@ -316,15 +325,14 @@
     }
     
     #top_fixed {
-	position: absolute;
-	top: 0;
-	height: 30px;
-	width: 100%;
-	background: url('../images/header_tab_shade.png') repeat-x;
-	z-index: 120;
-	font-size: 11px;
-	text-align: center;
-	padding-top: 17px;
+        position: absolute;
+        top: 0px;
+        width: 100%;
+        background: url('../images/header_tab_shade.png') repeat-x scroll 0% 0% transparent;
+        z-index: 120;
+        font-size: 11px;
+        text-align: center;
+        height: 50px;
     }
     
     #top_nav_left {
@@ -504,8 +512,16 @@
     }
     
     #menu {
-        font-family: 'Entypo', 'san-serif';
-        text-align: left;
+        font-family: "Entypo","san-serif";
+        margin-right: 588px;
+        font-size: 100px;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        line-height: 45px;
     }
     
     
