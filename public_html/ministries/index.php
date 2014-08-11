@@ -9,7 +9,7 @@
 			<div id="top_logo"></div>
 <!-- 			<img id="top_logo" src="/assets/images/back_logo.png" /> -->
 			<nav>
-				<ul id="home_nav">
+				<ul id="desktop_nav">
 				<?php $dom = "nav"; include $path.'/assets/includes/nav.php'; ?>
 				</ul>
 			</nav>

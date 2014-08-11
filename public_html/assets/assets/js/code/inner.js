@@ -80,7 +80,7 @@ $(document).ready(function() {
 		}
 	}
 
-	$('#hashlinks a, #footer_icons li a, footer li.subnav ul li a, #home_nav li.subnav ul li a, a.hashlinks').click(function(){
+	$('#hashlinks a, #footer_icons li a, footer li.subnav ul li a, #desktop_nav li.subnav ul li a, a.hashlinks').click(function(){
 		var transfer = $(this).attr('href');
 		var split;
 

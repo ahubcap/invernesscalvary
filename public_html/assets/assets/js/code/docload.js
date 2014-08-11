@@ -163,7 +163,7 @@ $(document).ready(function () {
 	} else if($.browser.mozilla){
 		browserV = "firefox";
 		if(navigator.appVersion.indexOf("Win")==-1)
-			$('ul#home_nav li ul.drop_04 p a').css({'background-position': 'right 4px'})
+			$('ul#desktop_nav li ul.drop_04 p a').css({'background-position': 'right 4px'})
 		if(navigator.appVersion.indexOf("Win")!=-1)
 			browserV = "winfox";
 	} else if(navigator.userAgent.toLowerCase().match(/(iphone|ipod|ipad)/)) {
@@ -249,7 +249,7 @@ $(document).ready(function () {
 		}
 	});
 	
-	$('#home_nav li.top_shelf').hoverIntent(
+	$('#desktop_nav li.top_shelf').hoverIntent(
 	function(){
 	  $(this).addClass('hover');
 	  $(this).children('ul').slideDown();
