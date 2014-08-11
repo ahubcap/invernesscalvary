@@ -80,13 +80,13 @@
     /* Phone (landscape)
     
 /* Mobile Nav */
-    li#mobile_nav {
+    #mobile_nav li {
         display: none;
     }
-    .current#mobile_nav {
+    #mobile_nav .current {
         display: block;
     }
-    ul:hover#mobile_nav li {
+    #mobile_nav ul:hover li {
         display: block;
     }
 
