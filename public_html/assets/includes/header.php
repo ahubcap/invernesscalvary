@@ -30,12 +30,14 @@
 
 <div id="mobile_bar">
     <div id="top_fixed">
-        <nav><div id="mobile_menu">
-            <ul id="mobile_nav">
-                <li id="menu" class="current">&#9776;</li>
-                <?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
-            </ul>
-            </div></nav>
+        <div id="mobile_menu">
+            <nav>
+                <ul id="mobile_nav">
+                    <li id="menu" class="current">&#9776;</li>
+                    <?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
+                </ul>
+            </nav>
+        </div>
     </div>
     <header id="main_header">
         <div id="drop_nav"></div>
