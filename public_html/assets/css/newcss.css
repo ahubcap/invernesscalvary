@@ -378,7 +378,7 @@
 	margin: 0 auto;
 	height: 267px;
 	background: url('../images/header_tab.png') no-repeat;
-	padding: 16px 8px 0 8px;
+        background-position: center center;
     }
     
     #header_mark {
