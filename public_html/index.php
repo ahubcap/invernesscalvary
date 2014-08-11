@@ -10,7 +10,7 @@
 				<?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
 				</ul>
                                 <ul id="mobile_nav">
-				<?php $dom = "side"; include 'assets/includes/nav.php'; ?>
+				<?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
 				</ul>
 			</nav>
                         
