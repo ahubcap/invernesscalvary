@@ -80,11 +80,11 @@
     /* Phone (landscape)
     
 /* Mobile Nav */
-    #mobile_nav {
+    .mobile_menu {
             position: relative;
             min-height: 40px;
     }	
-    #mobile_nav ul {
+    .mobile_menu ul {
             width: 180px;
             padding: 5px 0;
             position: absolute;
@@ -94,33 +94,32 @@
             border-radius: 5px;
             box-shadow: 0 1px 2px rgba(0,0,0,.3);
     }
-    #mobile_nav li {
+    .mobile_menu li {
             display: none; /* hide all <li> items */
             margin: 0;
     }
-    #mobile_nav .current {
+    .mobile_menu .current {
             display: block; /* show only current <li> item */
     }
-    #mobile_nav a {
+    .mobile_menu a {
             display: block;
             padding: 5px 5px 5px 32px;
             text-align: left;
     }
-    #mobile_nav .current a {
+    .mobile_menu .current a {
             background: none;
             color: #666;
     }
 
     /* on nav hover */
-    #mobile_nav ul:hover {
+    .mobile_menu ul:hover {
             background-image: none;
     }
-    #mobile_nav ul:hover li {
+    .mobile_menu ul:hover li {
             display: block;
             margin: 0 0 5px;
     }
-    #mobile_nav ul:hover .current {
-            background: url(images/icon-check.png) no-repeat 10px 7px;
+    .mobile_menu ul:hover .current {
     }
 
 /* Load Google Webfonts */
