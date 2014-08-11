@@ -31,7 +31,10 @@
 <div id="mobile_bar">
     <div id="top_fixed">
         <div id="mobile_menu">
-            <span id="menu">&#9776;</span>
+            <ul id="mobile_nav">
+                <li id="menu" class="current">&#9776;</li>
+                <?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
+            </ul>
         </div>
     </div>
     <header id="main_header">

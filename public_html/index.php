@@ -9,9 +9,6 @@
 				<ul id="desktop_nav">
 				<?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
 				</ul>
-                                <ul id="mobile_nav">
-				<?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
-				</ul>
 			</nav>
                         
 			<div id="slides">
