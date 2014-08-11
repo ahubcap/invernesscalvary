@@ -6,8 +6,11 @@
 		<div id="inner_wrapper">
 			<div id="top_logo"></div>
 			<nav>
-				<ul id="home_nav">
+				<ul id="desktop_nav">
 				<?php $dom = "nav"; include 'assets/includes/nav.php'; ?>
+				</ul>
+                                <ul id="mobile_nav">
+				<?php $dom = "side"; include 'assets/includes/nav.php'; ?>
 				</ul>
 			</nav>
                         

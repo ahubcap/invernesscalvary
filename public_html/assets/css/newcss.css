@@ -18,6 +18,9 @@
             div#drop_nav {
                 width: 1024px;
             }
+            #mobile_nav {
+                display: none;
+            }
         }
         
     /* Tablet - 768px (portrait) */
@@ -40,6 +43,9 @@
             }
             #mobile_menu {
                 width: 768px;
+            }
+            #desktop_nav {
+                display: none;
             }
         }
     
@@ -65,6 +71,9 @@
             }
             #mobile_menu {
                 width: 320px;
+            }
+            #desktop_nav {
+                display: none;
             }
         }
     
